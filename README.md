@@ -1,1 +1,1 @@
-Simple desktop interface that lets you manage and organize your eBooks.
+Simple desktop interface which lets you manage and organize your eBooks.
